@@ -11,7 +11,7 @@ Maratona Java Virado No Jiraya. Regravado desde a aula 0, com extrema qualidade,
 -- DevDojo Academy --
 
 [Playlist do YouTube](https://www.youtube.com/watch?v=GXt46-Npz0Y&list=PL0Un1HNdB4jGKw5szJrQETqJTlZKyKReu) 
-aperta play e vejo você em 18? meses
+Aperta play e vejo você em 18? meses
 
 **Q. Quais assuntos vocês falam no curso?**
 
